@@ -1,0 +1,5 @@
+streamlitの実行方法はファイル出るようにしてターミナルから「streamlit run ファイル名.py」を入力
+
+停止する方法はCtrl + Cを押す。
+
+　
